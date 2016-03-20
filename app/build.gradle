@@ -17,6 +17,13 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+
+    buildscript {
+        repositories {
+            jcenter()
+        }
+    }
+
 }
 
 dependencies {
@@ -24,5 +31,8 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile project(':slide_spinnerwheel_lib')
     compile 'com.android.support:appcompat-v7:23.2.0'
+    compile('org.rabbit-converter.rabbit:rabbit:0.0.3') {
+        exclude group: 'org.json', module: 'json'
+    }
 
 }
