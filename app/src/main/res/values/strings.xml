@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MMFontConverter</string>
+
+    <!-- Font Checker Activity-->
+    <string name="font_checker_title">Please Choose Font</string>
+    <string name="zg_text">သီဟိုဠ္မွ ဉာဏ္ႀကီးရွင္သည္ အာယုဝဍ္ဎနေဆးၫႊန္းစာကို ဇလြန္ေဈးေဘးဗာဒံပင္ထက္
+    အဓိ႒ာန္လ်က္ ဂဃနဏဖတ္ခဲ့သည္။</string>
+    <string name="uni_text">သီဟိုဠ်မှ ဉာဏ်ကြီးရှင်သည် အာယုဝဍ်ဎနဆေးညွှန်းစာကို ဇလွန်ဈေးဘေးဗာဒံပင်ထက်
+    အဓိဋ္ဌာန်လျက် ဂဃနဏဖတ်ခဲ့သည်။</string>
+    <string name="done">Done</string>
+
+
+    <!-- Language Activity-->
+    <string name="desc">Please, choose your preferred language.</string>
+    <string name="eng">English</string>
+    <string name="mm">Myanmar</string>
+
+
+    <string name="welcome">Welcome</string>
+
+</resources>

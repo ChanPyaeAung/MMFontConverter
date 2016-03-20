@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/johnmajor/Developer/Android/MMFontConverter/slide_spinnerwheel_lib/build/intermediates/res/merged/androidTest/debug/drawable/wheel_val.xml",
+        "source": "/Users/johnmajor/Developer/Android/MMFontConverter/slide_spinnerwheel_lib/build/intermediates/bundles/debug/res/drawable/wheel_val.xml"
+    },
+    {
+        "merged": "/Users/johnmajor/Developer/Android/MMFontConverter/slide_spinnerwheel_lib/build/intermediates/res/merged/androidTest/debug/drawable/wheel_bg_hor.xml",
+        "source": "/Users/johnmajor/Developer/Android/MMFontConverter/slide_spinnerwheel_lib/build/intermediates/bundles/debug/res/drawable/wheel_bg_hor.xml"
+    },
+    {
+        "merged": "/Users/johnmajor/Developer/Android/MMFontConverter/slide_spinnerwheel_lib/build/intermediates/res/merged/androidTest/debug/drawable/wheel_bg_ver.xml",
+        "source": "/Users/johnmajor/Developer/Android/MMFontConverter/slide_spinnerwheel_lib/build/intermediates/bundles/debug/res/drawable/wheel_bg_ver.xml"
+    }
+]
